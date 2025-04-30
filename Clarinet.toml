@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/trend_analytics.clar"
 depends_on = []
 
+[contracts.trend_governance]
+path = "contracts/trend_governance.clar"
+depends_on = []
+
 [contracts.trend_grid]
 path = "contracts/trend_grid.clar"
 depends_on = []
